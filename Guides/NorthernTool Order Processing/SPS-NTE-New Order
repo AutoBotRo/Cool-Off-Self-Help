@@ -1,0 +1,98 @@
+<head>
+    <link rel="stylesheet" href="./New Order CSS V1.css">
+  </head>
+
+<body>
+
+    <div id="side-menu">
+        <h1>Intro</h1>
+        <h1>Getting to the Order</h1>
+        <h1>Order Status</h1>
+    </div>
+
+    <div id="main-section">
+        <div>
+
+            <h1>Introduction</h1>
+
+            <p> This guide is meant to walk you through how to complete orders that come in from Northern Tool and Equipment. 
+
+                You will be notified by email when a new order comes in. If you have not already set up an account for email alerts - follow this guide to do so first. </p>
+
+            <h1>Getting to the Order</h1>
+
+                <p>After being notified of a new order, you will then go and log into SPS Commerce's website. Most day-to-day interactions with Northern Tool will involve you working in this system. 
+
+                    You will be greeted with a screen that ask if you are wanting to go the fulfillment dashboard or fulfillment montior. To complete orders, you will go to the fulfillment dashboard.</p>
+
+                <img src="./SPS-NTE-New Order Pictures/fulfillment highlighted.PNG">
+
+                <p>You then end up at a screen where you should see all your open orders. Click on the order number to open up the order. </p>
+
+                <img src="./SPS-NTE-New Order Pictures/Order highlighted.PNG">
+
+                <p>You will be taken to the order overview. This page has all the info you will need to know about. The "ship to" addres is listed in the center of the page. You can see what they purchased near the bottom of the page. And you can see all your current to-do's on the right side of the page. </p> 
+
+                <img src="./SPS-NTE-New Order Pictures/Order Overview Outlined.PNG">
+
+
+            <h1>Order Status</h1>
+        
+                <p>To begin processing this order, you will take a look at the workflow section of the order overview. </p>
+        
+                <p>When looking at this section, you'll see list of steps starting with "Order Status" going all he way to "Invoice" along with emblems that tell you what is going on with this step.
+                </p>
+
+                <ul>
+                    <li>no image means the step hasn't been started</li>
+                    <li><img>This means </li>
+                    <li><img>This means </li>
+                    <li><img>This means </li>
+                    <li><img>This means </li>
+                </ul>
+
+                <p>This order has already been started, however - for the purposes of this guide - we will start on what normally is the first: Order Status, Acknowledgement. 
+
+                First you will click on new </p>
+
+                <img src="./SPS-NTE-New Order Pictures/order status hightlighted.PNG">
+
+                <p>This will bring you to the document creation page. By default it will select "Quick Entry" - Make sure to change this to "Full Form Entry" and then click "Create New"</p>
+        
+                <img src="./SPS-NTE-New Order Pictures/Full Form Entry.PNG" alt="">
+
+                <p>The next thing you see should be be the document page. </p>
+
+                <img src="./SPS-NTE-New Order Pictures/Document overview - order status.PNG">
+            
+                <p>SPS documents all look very similar, with the form portion being the only things that change. The buttons that are going to be on all docuements - which are located at the top - are:</p>
+
+                <ul>
+                    <li>"Check for Errors" highlights any missing info. This is and "Send" are going to be your most used buttons</li>
+                    <li><img>"Cancel" takes you back to the main page. </li>
+                    <li><img>"Save" saves a draft of the document. Each document only takes 1-2 minutes to fill out so you should hardly ever use this. </li>
+                    <li><img>"Send" closes the document and sends the info to Northern Tool and Equipment </li>
+                </ul>
+
+                <p>To start filling this out, you want start by clicking on "Check for Errors". It will then highlight all the sections you need to fill out.</p>
+
+                <img src="./SPS-NTE-New Order Pictures/check for errors highlighted - header.PNG"> 
+
+                <p>You should see the document pages - "Header" and "Detail" both have an exclamation marks and a number. This tells you how many sections you need to fill out on each page. On the Header, you'll see "Acknowledgement Type" highlighted. You want to change to this to "Acknowledge - With Detail No Change".</p>
+
+                <img src="./SPS-NTE-New Order Pictures/acknowledge with no change.PNG">
+
+                <p>Then, click on "Check for Errors" to clear this page and go to the Detail page. You can just skip this step and just click on "Detail" to go to the next page, but it tis a good habit to consistently click it to double check your work.  </p>
+
+                <img src="./SPS-NTE-New Order Pictures/check for errors highlighted - detial.PNG">
+
+                <p>You'll see "Item Status" highlighted at the bottom. You are going to want to choose "Item Accepted"(unless there is an issue as to why you can't fulfill the order) and also fill out the delivery ship date. I normally put in a date that is 2 from the current day - there is no benefit to entering anything in sooner and will only cause you headaches if NTE team starts asking questions.</p>
+
+                <img src="./SPS-NTE-New Order Pictures/Item Acknowledgement.PNG">
+
+            <h1>Shipment and Billing</h1>
+
+                <p>Once you have the tracking number from Aimee, you are ready to complete the final 2 steps of this order.  </p>
+        </div>
+    </div>   
+</body>

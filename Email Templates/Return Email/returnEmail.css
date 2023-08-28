@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    border: 10px solid black;
+    width: auto;
+    max-width: 400px;
+}
+
+main {
+    background-color: white;
+    
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+#logo {
+    height: auto;
+    max-height: 100%;
+    width: auto;
+    max-width: 100%;
+}
+
+#message {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgba(0,0,0);
+}
+
+#below-message {
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.social-icon {
+    height: auto;
+    max-height: 30px;
+    padding: 10px;
+}
+
+.terms {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    text-align: center;
+}
